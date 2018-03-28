@@ -1,0 +1,22 @@
+{
+  "name": "reverse-engineering",
+  "version": "1.0.0",
+  "description": "tools for reverse engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3t0/reverse-engineering.git"
+  },
+  "author": "Rafi Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z3t0/reverse-engineering/issues"
+  },
+  "homepage": "https://github.com/z3t0/reverse-engineering#readme",
+  "dependencies": {
+    "ws": "^5.1.0"
+  }
+}
