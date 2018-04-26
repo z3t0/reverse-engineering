@@ -1,4 +1,4 @@
-;; This is a reddit bot for finding news
+;; This is a reddit api wrapper
 (defpackage :reddit
   (:use :http
 	:io

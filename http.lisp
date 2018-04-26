@@ -1,6 +1,4 @@
-;; http
-;; reverse engineering module
-;; Rafi Khan
+;; http utility functions
 
 (ql:quickload :drakma)
 (ql:quickload :cl-json)
