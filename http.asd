@@ -1,4 +1,4 @@
 (defsystem "http"
-  :depends-on ("drakma" "cl-json")
+  :depends-on ("drakma" "cl-json" "xmls")
   :components
   ((:file "http")))
